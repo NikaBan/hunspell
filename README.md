@@ -9,7 +9,7 @@ class and C functions.
 Hunspell's code base comes from the OpenOffice.org MySpell
 (http://lingucomponent.openoffice.org/MySpell-3.zip). See
 README.MYSPELL, AUTHORS.MYSPELL and license.myspell files. Hunspell is
-designed to eventually replace Myspell in OpenOffice.org.
+designed to eventually replace Myspell in OpenOffice.org..
 
 Main features of Hunspell spell checker and morphological analyzer:
 
